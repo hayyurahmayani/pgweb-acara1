@@ -10,3 +10,11 @@ Perencanaan produk Web GIS dan Git
 >**Avatar:**
 
 ![Profil](image/pasfoto.jpg)
+
+>**Daerah Asal: Kabupaten Gunungkidul**
+
+![Gunungkidul](image/gunungkidul.png)
+
+>**Pendidikan Terakhir: SMA Negeri 1 Wonosari**
+
+![sma](image/sma.jpg)
