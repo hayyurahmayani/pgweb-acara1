@@ -7,14 +7,18 @@ Perencanaan produk Web GIS dan Git
 
 >**Kelas: PGWEB A**
 
+>**Email: <hayyu.rahmayani@gmail.com>**
+
 >**Avatar:**
 
-![Profil](image/pasfoto.jpg)
+>![Profil](image/pasfoto.jpg)
 
->**Daerah Asal: Kabupaten Gunungkidul**
+>**Daerah Asal: Kapanewon Wonosari, [Kabupaten Gunungkidul](https://gunungkidulkab.go.id/)**
 
-![Gunungkidul](image/gunungkidul.png)
+>![Gunungkidul](image/gunungkidul.png)
 
 >**Pendidikan Terakhir: SMA Negeri 1 Wonosari**
 
-![sma](image/sma.jpg)
+>![sma](image/smaku.png)
+
+>**Motivasi diri:** *Nothing is out of reach*
